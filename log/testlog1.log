@@ -8,3 +8,18 @@
 2021-11-22 21:53:38,230 [main] INFO BankingProjectHAF - inserted password
 2021-11-22 21:53:39,316 [main] INFO BankingProjectHAF - clicked login button 
 2021-11-22 21:53:39,324 [main] INFO BankingProjectHAF - Logging Test Passed
+2021-11-22 23:33:20,164 [main] INFO BankingProjectHAF - URL is oppened
+2021-11-22 23:33:20,253 [main] INFO BankingProjectHAF - inserted username
+2021-11-22 23:33:20,316 [main] INFO BankingProjectHAF - inserted password
+2021-11-22 23:33:21,400 [main] INFO BankingProjectHAF - clicked login button 
+2021-11-22 23:33:21,408 [main] INFO BankingProjectHAF - Logging Test Passed
+2021-11-22 23:34:45,311 [main] INFO BankingProjectHAF - URL is oppened
+2021-11-22 23:34:45,400 [main] INFO BankingProjectHAF - inserted username
+2021-11-22 23:34:45,459 [main] INFO BankingProjectHAF - inserted password
+2021-11-22 23:34:52,759 [main] INFO BankingProjectHAF - clicked login button 
+2021-11-22 23:34:52,765 [main] INFO BankingProjectHAF - Logging Test Passed
+2021-11-23 00:05:01,307 [main] INFO BankingProjectHAF - URL is oppened
+2021-11-23 00:05:01,393 [main] INFO BankingProjectHAF - inserted username
+2021-11-23 00:05:01,446 [main] INFO BankingProjectHAF - inserted password
+2021-11-23 00:05:02,509 [main] INFO BankingProjectHAF - clicked login button 
+2021-11-23 00:05:02,522 [main] INFO BankingProjectHAF - Logging Test Passed
