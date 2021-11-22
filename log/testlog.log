@@ -1,0 +1,5 @@
+2021-11-22 21:11:12,577 - BankingProjectHAF -INFO - URL is oppened
+2021-11-22 21:11:12,669 - BankingProjectHAF -INFO - inserted username
+2021-11-22 21:11:12,722 - BankingProjectHAF -INFO - inserted password
+2021-11-22 21:11:13,815 - BankingProjectHAF -INFO - clicked login button 
+2021-11-22 21:11:13,821 - BankingProjectHAF -INFO - Logging Test Passed
