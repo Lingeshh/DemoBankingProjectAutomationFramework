@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-22T21:11:08 BDT" name="Default suite" finished-at="2021-11-22T21:11:13 BDT" duration-ms="5439">
+  <suite started-at="2021-11-22T21:53:34 BDT" name="bankingProjectHAF" finished-at="2021-11-22T21:53:39 BDT" duration-ms="5296">
     <groups>
     </groups>
-    <test started-at="2021-11-22T21:11:08 BDT" name="Default test" finished-at="2021-11-22T21:11:13 BDT" duration-ms="5439">
+    <test started-at="2021-11-22T21:53:34 BDT" name="Demo Banking Application Test" finished-at="2021-11-22T21:53:39 BDT" duration-ms="5296">
       <class name="com.bankingProject.testCases.TC_LoginTest_001">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.bankingProject.testCases.TC_LoginTest_001@7bd4937b]" started-at="2021-11-22T21:11:08 BDT" name="setup" finished-at="2021-11-22T21:11:10 BDT" duration-ms="1574" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.bankingProject.testCases.TC_LoginTest_001@5ba3f27a]" started-at="2021-11-22T21:53:34 BDT" name="setup" finished-at="2021-11-22T21:53:35 BDT" duration-ms="1572" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="loginTest()[pri:0, instance:com.bankingProject.testCases.TC_LoginTest_001@7bd4937b]" started-at="2021-11-22T21:11:10 BDT" name="loginTest" finished-at="2021-11-22T21:11:13 BDT" duration-ms="3692" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:com.bankingProject.testCases.TC_LoginTest_001@5ba3f27a]" started-at="2021-11-22T21:53:35 BDT" name="loginTest" finished-at="2021-11-22T21:53:39 BDT" duration-ms="3553" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProject.testCases.TC_LoginTest_001@7bd4937b]" started-at="2021-11-22T21:11:13 BDT" name="tearDown" finished-at="2021-11-22T21:11:13 BDT" duration-ms="136" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.bankingProject.testCases.TC_LoginTest_001@5ba3f27a]" started-at="2021-11-22T21:53:39 BDT" name="tearDown" finished-at="2021-11-22T21:53:39 BDT" duration-ms="136" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.bankingProject.testCases.TC_LoginTest_001 -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Demo Banking Application Test -->
+  </suite> <!-- bankingProjectHAF -->
 </testng-results>

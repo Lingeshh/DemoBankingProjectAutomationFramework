@@ -3,3 +3,8 @@
 2021-11-22 21:11:12,722 [main] INFO BankingProjectHAF - inserted password
 2021-11-22 21:11:13,815 [main] INFO BankingProjectHAF - clicked login button 
 2021-11-22 21:11:13,821 [main] INFO BankingProjectHAF - Logging Test Passed
+2021-11-22 21:53:38,087 [main] INFO BankingProjectHAF - URL is oppened
+2021-11-22 21:53:38,178 [main] INFO BankingProjectHAF - inserted username
+2021-11-22 21:53:38,230 [main] INFO BankingProjectHAF - inserted password
+2021-11-22 21:53:39,316 [main] INFO BankingProjectHAF - clicked login button 
+2021-11-22 21:53:39,324 [main] INFO BankingProjectHAF - Logging Test Passed
