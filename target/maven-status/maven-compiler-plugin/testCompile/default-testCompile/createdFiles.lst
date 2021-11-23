@@ -1,0 +1,3 @@
+com\bankingProject\testCases\BaseClass.class
+com\bankingProject\pageObjects\LoginPagePO.class
+com\bankingProject\testCases\TC_LoginTest_001.class
