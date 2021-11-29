@@ -4,7 +4,11 @@
 
 <suite name="bankingProjectHAF">
 
-	<test name="Demo Banking Application Test">
+	<listeners>
+		<listener class-name="com.bankingProject.utilities.Reporting" />
+	</listeners>
+
+	<test name="Banking Application Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.bankingProject.testCases.TC_LoginTest_001" />

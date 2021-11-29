@@ -1,6 +1,9 @@
 package com.bankingProject.testCases;
 
 import org.testng.annotations.Test;
+
+import java.io.IOException;
+
 import org.testng.Assert;
 
 import com.bankingProject.pageObjects.LoginPagePO;
@@ -9,9 +12,9 @@ import com.bankingProject.pageObjects.LoginPagePO;
 public class TC_LoginTest_001 extends BaseClass{
 	
 	@Test
-	public void loginTest()
+	public void loginTest() throws IOException 
 	{
-		driver.get(baseURL);
+		
 		logger.info("URL is oppened");
 		
 		LoginPagePO lp = new LoginPagePO(driver);
@@ -30,18 +33,17 @@ public class TC_LoginTest_001 extends BaseClass{
 		if(driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 		{
 			Assert.assertTrue(true);
-			//System.out.println("Passed");
-			logger.info("Logging Test Passed");
-		
-		}
-		else
-		{
+			logger.info("Logging passed");
+		}else {
 			
+			captureScreen(driver,"loginTest");
+			logger.info("Login failed");
 			Assert.assertTrue(false);
-			logger.info("Logging Test failed");
 			
 		}
+			
 		
-	}
 
+
+	}
 }

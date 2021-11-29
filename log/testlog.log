@@ -28,3 +28,53 @@
 2021-11-24 01:29:31,413 - BankingProjectHAF -INFO - inserted password
 2021-11-24 01:29:32,509 - BankingProjectHAF -INFO - clicked login button 
 2021-11-24 01:29:32,520 - BankingProjectHAF -INFO - Logging Test Passed
+2021-11-29 16:21:00,760 - ebanking -INFO - URL is oppened
+2021-11-29 16:21:00,842 - ebanking -INFO - inserted username
+2021-11-29 16:21:00,894 - ebanking -INFO - inserted password
+2021-11-29 16:21:02,216 - ebanking -INFO - clicked login button 
+2021-11-29 16:21:02,227 - ebanking -INFO - Logging Test Passed
+2021-11-29 16:22:11,596 - ebanking -INFO - URL is oppened
+2021-11-29 16:22:11,681 - ebanking -INFO - inserted username
+2021-11-29 16:22:11,739 - ebanking -INFO - inserted password
+2021-11-29 16:22:12,150 - ebanking -INFO - clicked login button 
+2021-11-29 16:55:10,353 - ebanking -INFO - URL is oppened
+2021-11-29 16:55:10,504 - ebanking -INFO - inserted username
+2021-11-29 16:55:10,591 - ebanking -INFO - inserted password
+2021-11-29 16:55:11,032 - ebanking -INFO - clicked login button 
+2021-11-29 16:58:40,815 - ebanking -INFO - URL is oppened
+2021-11-29 16:58:40,942 - ebanking -INFO - inserted username
+2021-11-29 16:58:41,023 - ebanking -INFO - inserted password
+2021-11-29 16:58:41,482 - ebanking -INFO - clicked login button 
+2021-11-29 17:02:57,369 - ebanking -INFO - URL is oppened
+2021-11-29 17:02:57,485 - ebanking -INFO - inserted username
+2021-11-29 17:02:57,550 - ebanking -INFO - inserted password
+2021-11-29 17:02:57,990 - ebanking -INFO - clicked login button 
+2021-11-29 17:09:54,826 - ebanking -INFO - URL is oppened
+2021-11-29 17:09:54,955 - ebanking -INFO - inserted username
+2021-11-29 17:09:55,038 - ebanking -INFO - inserted password
+2021-11-29 17:09:55,536 - ebanking -INFO - clicked login button 
+2021-11-29 17:10:32,129 - ebanking -INFO - URL is oppened
+2021-11-29 17:10:32,275 - ebanking -INFO - inserted username
+2021-11-29 17:10:32,360 - ebanking -INFO - inserted password
+2021-11-29 17:10:33,491 - ebanking -INFO - clicked login button 
+2021-11-29 17:10:33,507 - ebanking -INFO - Login test passed
+2021-11-29 17:22:26,822 - ebanking -INFO - URL is oppened
+2021-11-29 17:22:26,969 - ebanking -INFO - inserted username
+2021-11-29 17:22:27,041 - ebanking -INFO - inserted password
+2021-11-29 17:22:28,213 - ebanking -INFO - clicked login button 
+2021-11-29 17:22:28,499 - ebanking -INFO - Login failed
+2021-11-29 17:48:01,066 - ebanking -INFO - URL is oppened
+2021-11-29 17:48:01,266 - ebanking -INFO - inserted username
+2021-11-29 17:48:01,342 - ebanking -INFO - inserted password
+2021-11-29 17:48:02,820 - ebanking -INFO - clicked login button 
+2021-11-29 17:48:02,838 - ebanking -INFO - Logging passed
+2021-11-29 18:00:49,669 - ebanking -INFO - URL is oppened
+2021-11-29 18:00:49,808 - ebanking -INFO - inserted username
+2021-11-29 18:00:49,896 - ebanking -INFO - inserted password
+2021-11-29 18:00:51,047 - ebanking -INFO - clicked login button 
+2021-11-29 18:00:51,058 - ebanking -INFO - Logging passed
+2021-11-29 18:01:32,979 - ebanking -INFO - URL is oppened
+2021-11-29 18:01:33,107 - ebanking -INFO - inserted username
+2021-11-29 18:01:33,186 - ebanking -INFO - inserted password
+2021-11-29 18:01:34,282 - ebanking -INFO - clicked login button 
+2021-11-29 18:01:34,293 - ebanking -INFO - Logging passed
